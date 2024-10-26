@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\bin\Debug\net8.0\Patika Encapsulation Practice.exe
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\bin\Debug\net8.0\Patika Encapsulation Practice.deps.json
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\bin\Debug\net8.0\Patika Encapsulation Practice.runtimeconfig.json
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\bin\Debug\net8.0\Patika Encapsulation Practice.dll
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\bin\Debug\net8.0\Patika Encapsulation Practice.pdb
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\obj\Debug\net8.0\Patika Encapsulation Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\obj\Debug\net8.0\Patika Encapsulation Practice.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\obj\Debug\net8.0\Patika Encapsulation Practice.AssemblyInfo.cs
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\obj\Debug\net8.0\Patika Encapsulation Practice.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\obj\Debug\net8.0\Patika Encapsulation Practice.sourcelink.json
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\obj\Debug\net8.0\Patika Encapsulation Practice.dll
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\obj\Debug\net8.0\refint\Patika Encapsulation Practice.dll
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\obj\Debug\net8.0\Patika Encapsulation Practice.pdb
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\obj\Debug\net8.0\Patika Encapsulation Practice.genruntimeconfig.cache
+C:\Users\User\Desktop\Patika Encapsulation Practice\Patika Encapsulation Practice\obj\Debug\net8.0\ref\Patika Encapsulation Practice.dll
